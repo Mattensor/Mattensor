@@ -1,8 +1,7 @@
 ### Welcome to my GitHub page 👋
 
 I'm a developer based in Sydney, Australia
-
-My site is at [mattensor.io](https://mattensor.io/)  
+ 
 Here is my [LinkedIn profile](https://www.linkedin.com/in/matt-ensor)  
 Chat to me on [twitter](https://twitter.com/mattensor_io)  
 Reach out to me at [hi@mattensor.io](mailto:hi@mattensor.io)  
@@ -21,4 +20,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+My site is at [mattensor.io](https://mattensor.io/) 
 -->
