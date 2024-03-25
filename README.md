@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome to my GitHub page 👋
+
+I'm a developer based in Sydney, Australia
+
+My site is at [mattensor.io](https://mattensor.io/)
+Here is my [LinkedIn profile](https://www.linkedin.com/in/matt-ensor)
+Chat to me on [twitter](https://twitter.com/mattensor_io)
+Reach out to me at [hi@mattensor.io](mailto:hi@mattensor.io)
+
 
 <!--
 **Mattensor/Mattensor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
