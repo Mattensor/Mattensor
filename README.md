@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-I'm a developer based in Sydney, Australia
+Currently: California, USA 📍 | Mid 2024: Sydney, AUS
  
 Here is my [LinkedIn profile](https://www.linkedin.com/in/matt-ensor)  
 Chat to me on [twitter](https://twitter.com/mattensor_io)  
